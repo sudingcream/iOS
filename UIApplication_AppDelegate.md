@@ -51,7 +51,7 @@ UIApplicationMain 속성을 사용하는 것은 UIApplicationMain 함수를 호�
 
 ## 앱의 생명주기(Life Cycle)
 
-￼[image:1A748DDB-7D55-49AA-8EDF-20E701B3E397-10602-000028B2010CF5BA/8oeoizs.png]
+￼![](UIApplication_AppDelegate/8oeoizs.png)
 왼쪽은 iOS 시스템 프레임워크  / 오른쪽은 사용자 커스텀 코드
 
 
