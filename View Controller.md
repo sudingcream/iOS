@@ -31,7 +31,7 @@ View Controller에는 정말 많은 종류가 있습니다.
 앱의 화면 이동에 대한 관리와 그에 연관된 처리를 담당해주죠! 
  
 혼자서는 화면을 담당하지못하고, 다른 컨트롤러와 결합하여 화면을 구성해요
-![](View%20Controller/img.png)￼
+![](./img/navigation interface.png)￼
 navigation interface 예제
 
  
